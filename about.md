@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Brian, but I'm known to most of my colleagues as Butch. I currently work at [CDK Global, Inc.](http://www.cdkglobal.com) as a Software Engineer.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+In the summer of 2013, I decided that I was done being the stereotypical overweight, unhealthy computer nerd. My wife, Cassie, and I both stopped eating meat and limited our use of other animal products. We instead focused on a nutrient rich plant-based diet and almost immediately noticed a difference in how we looked and felt.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I dedicate this blog to my son, Bryce, born in 2015. If Cassie and I had not improved our lifestyle, I strongly believe he would have never existed.
